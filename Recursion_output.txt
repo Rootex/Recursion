@@ -1,0 +1,26 @@
+Start of Automated test
+
+Factorial Test Start
+Passed
+Passed
+Passed
+
+Fibonacci Test Start
+
+Passed
+Passed
+Passed
+
+Linear Search Test Start
+
+Passed
+Passed
+Passed
+
+Sumation Test Start
+
+Passed
+Passed
+Passed
+
+End of Automated test
